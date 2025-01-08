@@ -1,0 +1,2 @@
+Hello all,
+We are writing data on a file
