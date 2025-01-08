@@ -1,0 +1,30 @@
+[submodule "angular-auth-app"]
+	path = angular-auth-app
+	url = https://github.com/ManyaSai/codes.git
+[submodule "exercise-bt-lambdaexpression-alphabetchecker-xxx"]
+	path = exercise-bt-lambdaexpression-alphabetchecker-xxx
+	url = https://github.com/ManyaSai/codes.git
+[submodule "exercise-bt-lambdaexpression-comparator-xxx"]
+	path = exercise-bt-lambdaexpression-comparator-xxx
+	url = https://github.com/ManyaSai/codes.git
+[submodule "exercise-td-streams-operations-batsman"]
+	path = exercise-td-streams-operations-batsman
+	url = https://github.com/ManyaSai/codes.git
+[submodule "postgresEx/ust-classroom-repo-2024"]
+	path = postgresEx/ust-classroom-repo-2024
+	url = https://github.com/ManyaSai/codes.git
+[submodule "previous_capstone_project/capstone-project"]
+	path = previous_capstone_project/capstone-project
+	url = https://github.com/ManyaSai/codes.git
+[submodule "todo-angular"]
+	path = todo-angular
+	url = https://github.com/ManyaSai/codes.git
+[submodule "todo-app-cloned/ust-classroom-repo-2024"]
+	path = todo-app-cloned/ust-classroom-repo-2024
+	url = https://github.com/ManyaSai/codes.git
+[submodule "ust-campus-team-6"]
+	path = ust-campus-team-6
+	url = https://github.com/ManyaSai/codes.git
+[submodule "ust-classroom-repo-2024"]
+	path = ust-classroom-repo-2024
+	url = https://github.com/ManyaSai/codes.git
